@@ -1,0 +1,1 @@
+This is an example README file demonstrating a suggested structure for README files of software projects on GitHub. You can copy this README.md file into your project repository and edit the text as needed.
